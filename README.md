@@ -1,0 +1,1 @@
+I had some fun implementing a basic setup of the paper [*Weighted Sets of Probabilities and Minimax Weighted Expected Regret: New Approaches for Representing Uncertainty and Making Decisions∗ by Joseph. Y Halpern and Samantha Leung](https://www.cs.cornell.edu/home/halpern/papers/mwr.pdf).
